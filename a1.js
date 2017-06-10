@@ -1,8 +1,8 @@
 'use strict'
 
-let count = function(myname) {
-    console.log(myname);
+let cheer = function(mylanguage) {
+    console.log(mylanguage);
 }
 
-let name = "Kristof";
-count(name);
+let language = "JavaScript";
+cheer(language);
