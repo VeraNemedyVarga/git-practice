@@ -1,7 +1,7 @@
 'use strict'
 
-let greet = function(parameter1, parameter2) {
-    console.log(parameter1 + " " + parameter2);
+let greet = function(parameter1) {
+    console.log(parameter1);
 }
 
 let parameter1 = "JavaScript";
