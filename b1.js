@@ -1,7 +1,7 @@
 'use strict'
 
-let count = function(myage) {
-    console.log(myage);
+let count = function(whatever) {
+    console.log(whatever);
 }
 
 let age = 26;
