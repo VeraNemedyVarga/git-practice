@@ -1,8 +1,8 @@
 'use strict'
 
-let count = function(myage) {
-    console.log(myage);
+let count = function(monthbornin) {
+    console.log(monthbornin);
 }
 
-let age = 26;
-count(age);
+let monthbornin = 6;
+count(monthbornin);
