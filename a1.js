@@ -1,8 +1,9 @@
 'use strict'
 
-let count = function(parameter1) {
-    console.log(parameter1);
+let greet = function(parameter1, parameter2) {
+    console.log(parameter1 + " " + parameter2);
 }
 
-let language = "JavaScript";
-cheer(language);
+let parameter1 = "JavaScript";
+let parameter2 = "is not cool";
+greet(parameter1, parameter2);
