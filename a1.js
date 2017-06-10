@@ -1,7 +1,7 @@
 'use strict'
 
-let cheer = function(mylanguage) {
-    console.log(mylanguage);
+let count = function(parameter1) {
+    console.log(parameter1);
 }
 
 let language = "JavaScript";

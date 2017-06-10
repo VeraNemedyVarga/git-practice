@@ -4,5 +4,5 @@ let count = function(whatever) {
     console.log(whatever);
 }
 
-let age = 26;
-count(age);
+let monthbornin = 6;
+count(monthbornin);
