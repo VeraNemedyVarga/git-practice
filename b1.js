@@ -1,8 +1,9 @@
 'use strict'
 
-let count = function(whatever) {
-    console.log(whatever);
+let count = function(param1, param2) {
+    console.log(param1 + " " + param2);
 }
 
-let monthbornin = 6;
-count(monthbornin);
+let param1 = "vera";
+let param2 = "gitting"
+count(param1, param2);
